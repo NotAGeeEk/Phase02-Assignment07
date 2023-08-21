@@ -1,0 +1,8 @@
+D:\Phase2\Assignment exerciese\Assignment-07\ConsoleAppLibraryApp\ConsoleAppLibraryApp\bin\Debug\ConsoleAppLibraryApp.exe.config
+D:\Phase2\Assignment exerciese\Assignment-07\ConsoleAppLibraryApp\ConsoleAppLibraryApp\bin\Debug\ConsoleAppLibraryApp.exe
+D:\Phase2\Assignment exerciese\Assignment-07\ConsoleAppLibraryApp\ConsoleAppLibraryApp\bin\Debug\ConsoleAppLibraryApp.pdb
+D:\Phase2\Assignment exerciese\Assignment-07\ConsoleAppLibraryApp\ConsoleAppLibraryApp\obj\Debug\ConsoleAppLibraryApp.csproj.AssemblyReference.cache
+D:\Phase2\Assignment exerciese\Assignment-07\ConsoleAppLibraryApp\ConsoleAppLibraryApp\obj\Debug\ConsoleAppLibraryApp.csproj.SuggestedBindingRedirects.cache
+D:\Phase2\Assignment exerciese\Assignment-07\ConsoleAppLibraryApp\ConsoleAppLibraryApp\obj\Debug\ConsoleAppLibraryApp.csproj.CoreCompileInputs.cache
+D:\Phase2\Assignment exerciese\Assignment-07\ConsoleAppLibraryApp\ConsoleAppLibraryApp\obj\Debug\ConsoleAppLibraryApp.exe
+D:\Phase2\Assignment exerciese\Assignment-07\ConsoleAppLibraryApp\ConsoleAppLibraryApp\obj\Debug\ConsoleAppLibraryApp.pdb
